@@ -19,3 +19,10 @@ Training, Fine-tuning and Transfer Learning on Fashion MNIST and MNIST
 
 ## Problem4
 Visalizations and CAM
+
+• Visualized learning filters with VGG16 model. 
+
+• Visualized activations with self designed model with CIFAR-10 dataset. 
+
+• Visualized convolutional layer output of VGG16 model by Grad-CAM technology with top5 label prediction output. 
+
