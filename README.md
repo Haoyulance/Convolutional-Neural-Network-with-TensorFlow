@@ -1,5 +1,5 @@
 # Convolutional Neural Network with TensorFlow
-Some realization and convolutional layer visualization of CNN by TensorFlow
+Some realizations and convolutional layer visualizations of CNN by TensorFlow
 ## Problem1
 some basic Neural Network structures realized by self designed classes. 
 
