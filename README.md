@@ -1,4 +1,4 @@
-# Convolutional Neural Network with TensorFlow
+# Convolutional Neural Network with TensorFlow(CSCI599 assignments)
 Some realizations and convolutional layer visualizations of CNN by TensorFlow
 ## Problem1
 some basic Neural Network structures realized by self designed classes. 
